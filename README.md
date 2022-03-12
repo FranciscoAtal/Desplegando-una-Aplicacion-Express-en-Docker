@@ -1,6 +1,6 @@
 Instrucciones.
 --------------
-
+do
  1.- Se debe instalar los siguientes paquetes en Node:
      npm i -D nodemon
      npm i express
@@ -27,4 +27,4 @@ Instrucciones.
  9.- En el archivo server.js tenemos el programa principal donde incorporamos los paquetes necesarios para la ejecución del proyecto.
 
 10.- La ejecución la hacemos con el paquete nodemon de la siguiente manera:
-     nodemon server.js.-
+     nodemon index.js.-
